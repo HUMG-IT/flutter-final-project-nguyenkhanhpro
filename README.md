@@ -99,7 +99,7 @@ flutter test test/history_screen_test.dart  # Chạy test cụ thể
 3) Tạo giao dịch thu/chi, xem cập nhật số dư và lịch sử.
 4) Chạy kiểm thử: `dart test` và `flutter test`.
 5) Kiểm tra CI trên GitHub Actions: trạng thái Success.
-6) Có thêm xem qua video demo nếu cần [video demo]  (https://drive.google.com/file/d/17nzVr8yljPSGp_r2ilZzYbZtfu9SPgWW/view?usp=sharing).
+6) Có thêm xem qua video demo nếu cần [video demo](https://drive.google.com/file/d/17nzVr8yljPSGp_r2ilZzYbZtfu9SPgWW/view?usp=sharing).
 
 ## 10. Tự đánh giá điểm: **10/10**
 - Đáp ứng đầy đủ CRUD, quản lý trạng thái, UI/UX trơn tru.
